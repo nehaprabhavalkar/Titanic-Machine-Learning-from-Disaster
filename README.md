@@ -1,3 +1,3 @@
 # Titanic-Machine-Learning-from-Disaster
 
-My solution for Kaggle's Titanic problem - Top 31% 
+Solution for competition https://www.kaggle.com/c/titanic
